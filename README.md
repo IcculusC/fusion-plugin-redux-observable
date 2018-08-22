@@ -1,5 +1,7 @@
 # fusion-plugin-redux-observable
 
+Installs the [`redux-observable`](https://redux-observable.js.org) middleware and runs the provided [epic](https://redux-observable.js.org/docs/basics/Epics.html).
+
 ---
 
 ### Table of contents

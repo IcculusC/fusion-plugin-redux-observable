@@ -1,9 +1,9 @@
 {
-  "name": "fusion-plugin-yourplugin",
-  "description": "A Fusion.js plugin",
+  "name": "fusion-plugin-redux-observable",
+  "description": "FusionJS plugin for redux-observable.",
   "version": "0.0.0",
   "license": "MIT",
-  "repository": "yourorg/fusion-plugin-yourplugin",
+  "repository": "IcculusC/fusion-plugin-redux-observable",
   "main": "./dist/index.js",
   "module": "./dist/index.es.js",
   "browser": {
@@ -33,6 +33,8 @@
     "eslint-plugin-react": "7.8.2",
     "flow-bin": "^0.72.0",
     "fusion-core": "^1.3.1",
+    "fusion-plugin-react-redux": "^1.0.8",
+    "fusion-react": "^1.2.0",
     "fusion-test-utils": "^1.1.0",
     "fusion-tokens": "^1.0.3",
     "nyc": "^11.8.0",
@@ -42,7 +44,7 @@
     "react-redux": "5.0.7",
     "redux": "^4.0.0",
     "redux-observable": "^1.0.0",
-    "rxjs": "6",
+    "rxjs": "^6.2.2",
     "tape-cup": "4.7.1",
     "unitest": "2.1.1"
   },
