@@ -6,6 +6,7 @@ Installs the [`redux-observable`](https://redux-observable.js.org) middleware an
 
 ### Table of contents
 
+* [Installation](#installation)
 * [Usage](#usage)
 * [Setup](#setup)
 * [API](#api)
@@ -13,6 +14,11 @@ Installs the [`redux-observable`](https://redux-observable.js.org) middleware an
     * [Dependencies](#dependencies)
 
 ---
+
+### Installation
+```js
+yarn add fusion-plugin-redux-observable
+```
 
 ### Usage
 
