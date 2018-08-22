@@ -5,7 +5,7 @@ import React from 'react';
 import Enzyme from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 
-import { createPlugin } from 'fusion-core';
+import {createPlugin} from 'fusion-core';
 import App from 'fusion-react';
 import {getSimulator} from 'fusion-test-utils';
 import Redux, {
