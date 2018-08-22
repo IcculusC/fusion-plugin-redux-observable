@@ -1,7 +1,7 @@
 {
   "name": "fusion-plugin-redux-observable",
   "description": "FusionJS plugin for redux-observable.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "repository": "IcculusC/fusion-plugin-redux-observable",
   "main": "./dist/index.js",
